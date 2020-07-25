@@ -681,6 +681,54 @@
   },
   {
     "item": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
+    "replaces": {
+      "value": "Q734690",
+      "label": "José Manuel Pando"
+    },
+    "replacedBy": {
+      "value": "Q3309340",
+      "label": "Eliodoro Villazón"
+    },
+    "start": {
+      "value": "1904-08-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1909-08-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3138065$FFC04FFA-26BD-49D4-84F2-CAF193CC88EB",
+    "ordinal": "31"
+  },
+  {
+    "item": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
+    "replaces": {
+      "value": "Q3309340",
+      "label": "Eliodoro Villazón"
+    },
+    "replacedBy": {
+      "value": "Q3306291",
+      "label": "Jose Gutierrez Guerra"
+    },
+    "start": {
+      "value": "1913-08-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1917-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3138065$6461BC68-5EC9-4F28-8B9B-18323D4E5299",
+    "ordinal": "33"
+  },
+  {
+    "item": {
       "value": "Q3309336",
       "label": "Felipe S. Guzmán"
     },
@@ -997,6 +1045,30 @@
   },
   {
     "item": {
+      "value": "Q312055",
+      "label": "Víctor Paz Estenssoro"
+    },
+    "replaces": {
+      "value": "Q312055",
+      "label": "Víctor Paz Estenssoro"
+    },
+    "replacedBy": {
+      "value": "Q332074",
+      "label": "René Barrientos"
+    },
+    "start": {
+      "value": "1964-08-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-11-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q312055$F878D7AD-C8F4-4BD3-BEAD-519B13EB2FC4",
+    "ordinal": "54"
+  },
+  {
+    "item": {
       "value": "Q332074",
       "label": "René Barrientos"
     },
@@ -1045,6 +1117,30 @@
   },
   {
     "item": {
+      "value": "Q1780127",
+      "label": "Alfredo Ovando Candía"
+    },
+    "replaces": {
+      "value": "Q1780127",
+      "label": "Alfredo Ovando Candía"
+    },
+    "replacedBy": {
+      "value": "Q332074",
+      "label": "René Barrientos"
+    },
+    "start": {
+      "value": "1966-01-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1966-08-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1780127$2FAC5B89-9CF2-4288-8613-D5F3CCAE8987",
+    "ordinal": "57"
+  },
+  {
+    "item": {
       "value": "Q332074",
       "label": "René Barrientos"
     },
@@ -1065,6 +1161,30 @@
       "precision": "11"
     },
     "statement": "Q332074$9170D8BA-CDAA-4C1D-BC9D-B504253B456F"
+  },
+  {
+    "item": {
+      "value": "Q1780127",
+      "label": "Alfredo Ovando Candía"
+    },
+    "replaces": {
+      "value": "Q886540",
+      "label": "Luis Adolfo Siles Salinas"
+    },
+    "replacedBy": {
+      "value": "Q195762",
+      "label": "Juan José Torres"
+    },
+    "start": {
+      "value": "1969-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1970-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1780127$CB062E89-F62B-4A91-B889-C46232C22154",
+    "ordinal": "60"
   },
   {
     "item": {
