@@ -1,199 +1,10 @@
 [
   {
     "item": {
-      "value": "Q374070",
-      "label": "Carlos Blanco Galindo"
-    },
-    "statement": "Q374070$4A18EDE9-B232-4E0C-A167-32E592320761"
-  },
-  {
-    "item": {
-      "value": "Q3303957",
-      "label": "Pedro Domingo Murillo"
-    },
-    "statement": "Q3303957$50c9c3fc-4805-4823-bf3b-2aa8ff70598f"
-  },
-  {
-    "item": {
-      "value": "Q56772137",
-      "label": "Ruperto Fernández"
-    },
-    "statement": "Q56772137$53eb09a0-5def-45d6-94cd-d1df06796176"
-  },
-  {
-    "item": {
-      "value": "Q60967255",
-      "label": "Óscar Pammo Rodríguez"
-    },
-    "statement": "Q60967255$4aa262e6-fee3-44dc-8bda-e4179dd56df2"
-  },
-  {
-    "item": {
-      "value": "Q2566177",
-      "label": "Juan Pereda"
-    },
-    "statement": "Q2566177$4F3D36C8-9BF1-4790-9E8B-6DD26D50442A"
-  },
-  {
-    "item": {
-      "value": "Q3306306",
-      "label": "Mamerto Urriolagoitía"
-    },
-    "statement": "Q3306306$EA8FDF12-A06D-41CC-9A26-379C6FBAF3AA"
-  },
-  {
-    "item": {
-      "value": "Q3308442",
-      "label": "Carlos Quintanilla"
-    },
-    "statement": "Q3308442$35C4152D-A5A0-47D1-BF9F-76EFF3AAA370"
-  },
-  {
-    "item": {
-      "value": "Q5988699",
-      "label": "Macario Pinilla Vargas"
-    },
-    "statement": "Q5988699$8b6845ee-86c8-413b-b7d9-1963a5be9a02"
-  },
-  {
-    "item": {
-      "value": "Q16617486",
-      "label": "Pedro José Domingo de Guerra"
-    },
-    "statement": "Q16617486$1638abb9-6eb4-4357-a1e5-effbdc5e413f"
-  },
-  {
-    "item": {
-      "value": "Q3309340",
-      "label": "Eliodoro Villazón"
-    },
-    "statement": "Q3309340$02166B8A-A7C9-49A6-9A82-05083D068D58"
-  },
-  {
-    "item": {
-      "value": "Q886514",
-      "label": "David Padilla"
-    },
-    "statement": "Q886514$BA9B3D9A-A686-46EA-B76D-C070D7E4F52D"
-  },
-  {
-    "item": {
-      "value": "Q886540",
-      "label": "Luis Adolfo Siles Salinas"
-    },
-    "statement": "Q886540$E87413E8-CF2F-44DD-81BA-DEA2A8C3A4A8"
-  },
-  {
-    "item": {
-      "value": "Q5945023",
-      "label": "José Ramón de Loayza Pacheco"
-    },
-    "statement": "Q5945023$5d53cd3e-3be9-465b-bec5-3d6514706924"
-  },
-  {
-    "item": {
-      "value": "Q7944630",
-      "label": "Víctor González Fuentes"
-    },
-    "statement": "Q7944630$AAA4BD6D-0B23-45E5-B2BE-EF7AA0253150"
-  },
-  {
-    "item": {
-      "value": "Q811928",
-      "label": "Bautista Saavedra"
-    },
-    "statement": "Q811928$75A1E21F-6195-48B4-A565-5A9613506C40"
-  },
-  {
-    "item": {
-      "value": "Q3046471",
-      "label": "Tomás Monje"
-    },
-    "statement": "Q3046471$BF79D87A-B38D-4C98-B5A4-D18D894D312D"
-  },
-  {
-    "item": {
-      "value": "Q21869771",
-      "label": "Manuel Antonio Sánchez"
-    },
-    "statement": "Q21869771$d863e454-65c0-4949-826c-8f301a46e3d8"
-  },
-  {
-    "item": {
       "value": "Q56843775",
       "label": "José Manuel Ramírez"
     },
     "statement": "Q56843775$3922ae3a-5c1e-4b76-8ce5-cb55db08b160"
-  },
-  {
-    "item": {
-      "value": "Q399334",
-      "label": "Agustín Morales"
-    },
-    "statement": "Q399334$6335a95d-1daa-4b9a-bb89-0c0476be3147"
-  },
-  {
-    "item": {
-      "value": "Q886528",
-      "label": "Sebastián Ágreda"
-    },
-    "statement": "Q886528$A7A948C1-7DB6-4600-98BB-EE37644845DA"
-  },
-  {
-    "item": {
-      "value": "Q2562371",
-      "label": "Aniceto Arce"
-    },
-    "statement": "Q2562371$B38A5186-EEA0-42EE-8909-3D7E2D6CECC7"
-  },
-  {
-    "item": {
-      "value": "Q3138065",
-      "label": "Ismael Montes"
-    },
-    "statement": "Q3138065$8D9F4D19-40F0-41EC-AE8A-6CB6EED61BA6"
-  },
-  {
-    "item": {
-      "value": "Q3309369",
-      "label": "Gregorio Pacheco"
-    },
-    "statement": "Q3309369$0CF737C4-3A4F-4F10-8E52-0FF3BFBB49A7"
-  },
-  {
-    "item": {
-      "value": "Q80924",
-      "label": "Wálter Guevara"
-    },
-    "statement": "Q80924$84CFE972-6BBB-4BCC-9F2A-8C23C0CD2B1C"
-  },
-  {
-    "item": {
-      "value": "Q466098",
-      "label": "Lidia Gueiler Tejada"
-    },
-    "statement": "Q466098$04956277-9B5D-428C-AC30-CFDC2372A5CD"
-  },
-  {
-    "item": {
-      "value": "Q886251",
-      "label": "José María Achá"
-    },
-    "statement": "Q886251$5C168C0A-CC5C-4490-A6F2-80636FDB3721"
-  },
-  {
-    "item": {
-      "value": "Q886300",
-      "label": "Hernando Siles Reyes"
-    },
-    "statement": "Q886300$5C67D4C1-9025-49C5-9E8E-2251C25DF9F7"
-  },
-  {
-    "item": {
-      "value": "Q5391068",
-      "label": "Serapio Reyes Ortiz"
-    },
-    "statement": "Q5391068$27782b9c-d870-4082-9595-747d31012e10"
   },
   {
     "item": {
@@ -204,17 +15,25 @@
   },
   {
     "item": {
-      "value": "Q3306291",
-      "label": "Jose Gutierrez Guerra"
-    },
-    "statement": "Q3306291$989FCDC6-EDE3-4A1A-B979-B759F832A221"
-  },
-  {
-    "item": {
       "value": "Q21857912",
       "label": "José María Escalier"
     },
     "statement": "Q21857912$bd19214f-828a-4678-b910-6d4f442622b8"
+  },
+  {
+    "item": {
+      "value": "Q3303957",
+      "label": "Pedro Domingo Murillo"
+    },
+    "start": {
+      "value": "1809-07-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1809-09-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3303957$50c9c3fc-4805-4823-bf3b-2aa8ff70598f"
   },
   {
     "item": {
@@ -265,6 +84,14 @@
       "value": "Q734654",
       "label": "José María Pérez de Urdininea"
     },
+    "replaces": {
+      "value": "Q189779",
+      "label": "Antonio José de Sucre"
+    },
+    "replacedBy": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
+    },
     "start": {
       "value": "1828-04-18T00:00:00Z",
       "precision": "11"
@@ -273,7 +100,8 @@
       "value": "1828-08-02T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q734654$16D43A31-24E8-47BE-B1C6-5093800A5B81"
+    "statement": "Q734654$16D43A31-24E8-47BE-B1C6-5093800A5B81",
+    "ordinal": "3"
   },
   {
     "item": {
@@ -301,6 +129,21 @@
   },
   {
     "item": {
+      "value": "Q5945023",
+      "label": "José Ramón de Loayza Pacheco"
+    },
+    "start": {
+      "value": "1828-12-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1828-12-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5945023$5d53cd3e-3be9-465b-bec5-3d6514706924"
+  },
+  {
+    "item": {
       "value": "Q286657",
       "label": "Pedro Blanco Soto"
     },
@@ -309,8 +152,8 @@
       "label": "José Miguel de Velasco"
     },
     "replacedBy": {
-      "value": "Q467959",
-      "label": "Andrés de Santa Cruz"
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
     },
     "start": {
       "value": "1828-12-26T00:00:00Z",
@@ -352,6 +195,14 @@
       "value": "Q467959",
       "label": "Andrés de Santa Cruz"
     },
+    "replaces": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
+    },
+    "replacedBy": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
+    },
     "start": {
       "value": "1829-05-24T00:00:00Z",
       "precision": "11"
@@ -389,6 +240,54 @@
   },
   {
     "item": {
+      "value": "Q886528",
+      "label": "Sebastián Ágreda"
+    },
+    "replaces": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
+    },
+    "replacedBy": {
+      "value": "Q886535",
+      "label": "Mariano Enrique Calvo Cuellar"
+    },
+    "start": {
+      "value": "1841-06-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1841-07-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886528$A7A948C1-7DB6-4600-98BB-EE37644845DA",
+    "ordinal": "9"
+  },
+  {
+    "item": {
+      "value": "Q886535",
+      "label": "Mariano Enrique Calvo Cuellar"
+    },
+    "replaces": {
+      "value": "Q886528",
+      "label": "Sebastián Ágreda"
+    },
+    "replacedBy": {
+      "value": "Q734711",
+      "label": "José Ballivián"
+    },
+    "start": {
+      "value": "1841-07-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1841-09-22T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886535$677B0383-2BFB-4C79-B009-3598FF13DBD6",
+    "ordinal": "10"
+  },
+  {
+    "item": {
       "value": "Q734711",
       "label": "José Ballivián"
     },
@@ -401,34 +300,28 @@
       "label": "Eusebio Guilarte Mole"
     },
     "start": {
-      "value": "1841-01-01T00:00:00Z",
-      "precision": "9"
-    },
-    "end": {
-      "value": "1847-01-01T00:00:00Z",
-      "precision": "9"
-    },
-    "statement": "Q734711$3674A6A1-5419-4C3A-ABE8-1FD2636937D1"
-  },
-  {
-    "item": {
-      "value": "Q886535",
-      "label": "Mariano Enrique Calvo Cuellar"
-    },
-    "start": {
-      "value": "1841-07-09T00:00:00Z",
+      "value": "1841-09-27T00:00:00Z",
       "precision": "11"
     },
     "end": {
-      "value": "1841-09-22T00:00:00Z",
+      "value": "1847-12-23T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q886535$677B0383-2BFB-4C79-B009-3598FF13DBD6"
+    "statement": "Q734711$3674A6A1-5419-4C3A-ABE8-1FD2636937D1",
+    "ordinal": "11"
   },
   {
     "item": {
       "value": "Q887550",
       "label": "Eusebio Guilarte Mole"
+    },
+    "replaces": {
+      "value": "Q734711",
+      "label": "José Ballivián"
+    },
+    "replacedBy": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
     },
     "start": {
       "value": "1847-12-23T00:00:00Z",
@@ -438,7 +331,8 @@
       "value": "1848-01-02T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q887550$19FD2D74-C400-436D-91B5-8D5E1AACA7EC"
+    "statement": "Q887550$19FD2D74-C400-436D-91B5-8D5E1AACA7EC",
+    "ordinal": "12"
   },
   {
     "item": {
@@ -469,6 +363,14 @@
       "value": "Q886509",
       "label": "Manuel Isidoro Belzu"
     },
+    "replaces": {
+      "value": "Q373873",
+      "label": "José Miguel de Velasco"
+    },
+    "replacedBy": {
+      "value": "Q886503",
+      "label": "Jorge Córdova"
+    },
     "start": {
       "value": "1848-12-06T00:00:00Z",
       "precision": "11"
@@ -477,12 +379,21 @@
       "value": "1855-08-15T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q886509$A66B6A98-C397-4C67-8CA7-3B7643C3CD57"
+    "statement": "Q886509$A66B6A98-C397-4C67-8CA7-3B7643C3CD57",
+    "ordinal": "14"
   },
   {
     "item": {
       "value": "Q886503",
       "label": "Jorge Córdova"
+    },
+    "replaces": {
+      "value": "Q886509",
+      "label": "Manuel Isidoro Belzu"
+    },
+    "replacedBy": {
+      "value": "Q888590",
+      "label": "José María Linares"
     },
     "start": {
       "value": "1855-08-15T00:00:00Z",
@@ -492,7 +403,8 @@
       "value": "1857-09-09T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q886503$97FA821E-4B44-4A23-A737-9650FB160EDE"
+    "statement": "Q886503$97FA821E-4B44-4A23-A737-9650FB160EDE",
+    "ordinal": "15"
   },
   {
     "item": {
@@ -504,8 +416,8 @@
       "label": "Jorge Córdova"
     },
     "replacedBy": {
-      "value": "Q11091800",
-      "label": "Bolivian Government Junta of 1861"
+      "value": "Q886251",
+      "label": "José María Achá"
     },
     "start": {
       "value": "1857-09-09T00:00:00Z",
@@ -515,7 +427,32 @@
       "value": "1861-01-14T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q888590$3F9EDF17-FF27-4ADD-B465-523E2F6FAFC9"
+    "statement": "Q888590$3F9EDF17-FF27-4ADD-B465-523E2F6FAFC9",
+    "ordinal": "16"
+  },
+  {
+    "item": {
+      "value": "Q886251",
+      "label": "José María Achá"
+    },
+    "replaces": {
+      "value": "Q888590",
+      "label": "José María Linares"
+    },
+    "replacedBy": {
+      "value": "Q734622",
+      "label": "Mariano Melgarejo"
+    },
+    "start": {
+      "value": "1861-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1864-12-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886251$5C168C0A-CC5C-4490-A6F2-80636FDB3721",
+    "ordinal": "17"
   },
   {
     "item": {
@@ -543,15 +480,47 @@
   },
   {
     "item": {
+      "value": "Q399334",
+      "label": "Agustín Morales"
+    },
+    "replaces": {
+      "value": "Q734622",
+      "label": "Mariano Melgarejo"
+    },
+    "replacedBy": {
       "value": "Q886958",
       "label": "Tomás Frías Ametller"
+    },
+    "start": {
+      "value": "1871-01-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1872-11-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q399334$6335a95d-1daa-4b9a-bb89-0c0476be3147",
+    "ordinal": "19"
+  },
+  {
+    "item": {
+      "value": "Q886958",
+      "label": "Tomás Frías Ametller"
+    },
+    "replaces": {
+      "value": "Q399334",
+      "label": "Agustín Morales"
+    },
+    "replacedBy": {
+      "value": "Q364994",
+      "label": "Adolfo Ballivián"
     },
     "start": {
       "value": "1872-11-28T00:00:00Z",
       "precision": "11"
     },
     "end": {
-      "value": "1873-05-07T00:00:00Z",
+      "value": "1873-05-09T00:00:00Z",
       "precision": "11"
     },
     "statement": "Q886958$AB0E6E47-CFAC-4636-AD7F-33FEA8ABDA66",
@@ -571,19 +540,28 @@
       "label": "Tomás Frías Ametller"
     },
     "start": {
-      "value": "1873-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1873-05-09T00:00:00Z",
+      "precision": "11"
     },
     "end": {
-      "value": "1874-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1874-01-31T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "Q364994$0839237A-5E8E-40E1-A0E0-6E035A1A4BD6"
+    "statement": "Q364994$0839237A-5E8E-40E1-A0E0-6E035A1A4BD6",
+    "ordinal": "21"
   },
   {
     "item": {
       "value": "Q886958",
       "label": "Tomás Frías Ametller"
+    },
+    "replaces": {
+      "value": "Q364994",
+      "label": "Adolfo Ballivián"
+    },
+    "replacedBy": {
+      "value": "Q492024",
+      "label": "Hilarión Daza"
     },
     "start": {
       "value": "1874-01-31T00:00:00Z",
@@ -601,6 +579,14 @@
       "value": "Q492024",
       "label": "Hilarión Daza"
     },
+    "replaces": {
+      "value": "Q886958",
+      "label": "Tomás Frías Ametller"
+    },
+    "replacedBy": {
+      "value": "Q16617486",
+      "label": "Pedro José Domingo de Guerra"
+    },
     "start": {
       "value": "1876-05-04T00:00:00Z",
       "precision": "11"
@@ -609,22 +595,104 @@
       "value": "1879-04-17T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q492024$2F8B74B6-5802-49C4-B135-E9DC7F76D104"
+    "statement": "Q492024$2F8B74B6-5802-49C4-B135-E9DC7F76D104",
+    "ordinal": "23"
+  },
+  {
+    "item": {
+      "value": "Q16617486",
+      "label": "Pedro José Domingo de Guerra"
+    },
+    "replaces": {
+      "value": "Q492024",
+      "label": "Hilarión Daza"
+    },
+    "replacedBy": {
+      "value": "Q3309380",
+      "label": "Narciso Campero"
+    },
+    "start": {
+      "value": "1879-04-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1879-09-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16617486$1638abb9-6eb4-4357-a1e5-effbdc5e413f",
+    "ordinal": "24"
   },
   {
     "item": {
       "value": "Q3309380",
       "label": "Narciso Campero"
     },
+    "replaces": {
+      "value": "Q16617486",
+      "label": "Pedro José Domingo de Guerra"
+    },
+    "replacedBy": {
+      "value": "Q3309369",
+      "label": "Gregorio Pacheco"
+    },
     "start": {
-      "value": "1880-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1880-01-19T00:00:00Z",
+      "precision": "11"
     },
     "end": {
-      "value": "1884-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1884-09-04T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "Q3309380$5035FD03-D23C-4452-A3A2-05407AC91114"
+    "statement": "Q3309380$5035FD03-D23C-4452-A3A2-05407AC91114",
+    "ordinal": "25"
+  },
+  {
+    "item": {
+      "value": "Q3309369",
+      "label": "Gregorio Pacheco"
+    },
+    "replaces": {
+      "value": "Q3309380",
+      "label": "Narciso Campero"
+    },
+    "replacedBy": {
+      "value": "Q2562371",
+      "label": "Aniceto Arce"
+    },
+    "start": {
+      "value": "1884-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1888-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3309369$0CF737C4-3A4F-4F10-8E52-0FF3BFBB49A7",
+    "ordinal": "26"
+  },
+  {
+    "item": {
+      "value": "Q2562371",
+      "label": "Aniceto Arce"
+    },
+    "replaces": {
+      "value": "Q3309369",
+      "label": "Gregorio Pacheco"
+    },
+    "replacedBy": {
+      "value": "Q770323",
+      "label": "Mariano Baptista"
+    },
+    "start": {
+      "value": "1888-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1892-08-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2562371$B38A5186-EEA0-42EE-8909-3D7E2D6CECC7",
+    "ordinal": "27"
   },
   {
     "item": {
@@ -640,19 +708,28 @@
       "label": "Severo Fernández"
     },
     "start": {
-      "value": "1892-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1892-08-11T00:00:00Z",
+      "precision": "11"
     },
     "end": {
-      "value": "1896-01-01T00:00:00Z",
-      "precision": "9"
+      "value": "1896-08-19T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "q770323$78d9155e-499d-0bdb-c54a-c60fe769277e"
+    "statement": "q770323$78d9155e-499d-0bdb-c54a-c60fe769277e",
+    "ordinal": "28"
   },
   {
     "item": {
       "value": "Q2742696",
       "label": "Severo Fernández"
+    },
+    "replaces": {
+      "value": "Q770323",
+      "label": "Mariano Baptista"
+    },
+    "replacedBy": {
+      "value": "Q734690",
+      "label": "José Manuel Pando"
     },
     "start": {
       "value": "1896-08-19T00:00:00Z",
@@ -662,22 +739,32 @@
       "value": "1899-04-12T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q2742696$12273517-ADF6-4452-838D-1BF93341BFF4"
+    "statement": "Q2742696$12273517-ADF6-4452-838D-1BF93341BFF4",
+    "ordinal": "29"
   },
   {
     "item": {
       "value": "Q734690",
       "label": "José Manuel Pando"
     },
+    "replaces": {
+      "value": "Q2742696",
+      "label": "Severo Fernández"
+    },
+    "replacedBy": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
     "start": {
-      "value": "1899-10-01T00:00:00Z",
-      "precision": "10"
+      "value": "1899-10-25T00:00:00Z",
+      "precision": "11"
     },
     "end": {
-      "value": "1904-08-01T00:00:00Z",
-      "precision": "10"
+      "value": "1904-08-14T00:00:00Z",
+      "precision": "11"
     },
-    "statement": "Q734690$9EBB9A9E-672F-49C8-919E-7B31BCD88276"
+    "statement": "Q734690$9EBB9A9E-672F-49C8-919E-7B31BCD88276",
+    "ordinal": "30"
   },
   {
     "item": {
@@ -705,6 +792,30 @@
   },
   {
     "item": {
+      "value": "Q3309340",
+      "label": "Eliodoro Villazón"
+    },
+    "replaces": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
+    "replacedBy": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
+    "start": {
+      "value": "1909-08-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1913-08-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3309340$02166B8A-A7C9-49A6-9A82-05083D068D58",
+    "ordinal": "32"
+  },
+  {
+    "item": {
       "value": "Q3138065",
       "label": "Ismael Montes"
     },
@@ -729,6 +840,54 @@
   },
   {
     "item": {
+      "value": "Q3306291",
+      "label": "Jose Gutierrez Guerra"
+    },
+    "replaces": {
+      "value": "Q3138065",
+      "label": "Ismael Montes"
+    },
+    "replacedBy": {
+      "value": "Q811928",
+      "label": "Bautista Saavedra"
+    },
+    "start": {
+      "value": "1917-08-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1920-07-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3306291$989FCDC6-EDE3-4A1A-B979-B759F832A221",
+    "ordinal": "34"
+  },
+  {
+    "item": {
+      "value": "Q811928",
+      "label": "Bautista Saavedra"
+    },
+    "replaces": {
+      "value": "Q3306291",
+      "label": "Jose Gutierrez Guerra"
+    },
+    "replacedBy": {
+      "value": "Q3309336",
+      "label": "Felipe S. Guzmán"
+    },
+    "start": {
+      "value": "1921-01-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1925-09-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q811928$75A1E21F-6195-48B4-A565-5A9613506C40",
+    "ordinal": "35"
+  },
+  {
+    "item": {
       "value": "Q3309336",
       "label": "Felipe S. Guzmán"
     },
@@ -748,7 +907,56 @@
       "value": "1926-01-10T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q3309336$52E98D48-248F-4FE4-AAE7-CFC56D901126"
+    "statement": "Q3309336$52E98D48-248F-4FE4-AAE7-CFC56D901126",
+    "ordinal": "36"
+  },
+  {
+    "item": {
+      "value": "Q886300",
+      "label": "Hernando Siles Reyes"
+    },
+    "replaces": {
+      "value": "Q3309336",
+      "label": "Felipe S. Guzmán"
+    },
+    "replacedBy": {
+      "value": "Q374070",
+      "label": "Carlos Blanco Galindo"
+    },
+    "start": {
+      "value": "1926-01-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1930-05-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886300$5C67D4C1-9025-49C5-9E8E-2251C25DF9F7",
+    "ordinal": "37"
+  },
+  {
+    "item": {
+      "value": "Q374070",
+      "label": "Carlos Blanco Galindo"
+    },
+    "replaces": {
+      "value": "Q886300",
+      "label": "Hernando Siles Reyes"
+    },
+    "replacedBy": {
+      "value": "Q738270",
+      "label": "Daniel Salamanca Urey"
+    },
+    "start": {
+      "value": "1930-06-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1931-03-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q374070$4A18EDE9-B232-4E0C-A167-32E592320761",
+    "ordinal": "38"
   },
   {
     "item": {
@@ -784,8 +992,8 @@
       "label": "Daniel Salamanca Urey"
     },
     "replacedBy": {
-      "value": "Q734606",
-      "label": "Germán Busch"
+      "value": "Q3292030",
+      "label": "David Toro"
     },
     "start": {
       "value": "1934-12-01T00:00:00Z",
@@ -828,8 +1036,8 @@
       "label": "David Toro"
     },
     "replaces": {
-      "value": "Q734606",
-      "label": "Germán Busch"
+      "value": "Q2511035",
+      "label": "José Luis Tejada Sorzano"
     },
     "replacedBy": {
       "value": "Q734606",
@@ -844,7 +1052,7 @@
       "precision": "11"
     },
     "statement": "Q3292030$AAD26248-F020-44DB-BD30-E7E00194CBDB",
-    "ordinal": "42"
+    "ordinal": "41"
   },
   {
     "item": {
@@ -868,6 +1076,30 @@
       "precision": "11"
     },
     "statement": "Q734606$1fce8106-496f-0f3a-5359-8ff03bad3399",
+    "ordinal": "42"
+  },
+  {
+    "item": {
+      "value": "Q3308442",
+      "label": "Carlos Quintanilla"
+    },
+    "replaces": {
+      "value": "Q734606",
+      "label": "Germán Busch"
+    },
+    "replacedBy": {
+      "value": "Q886523",
+      "label": "Enrique Peñaranda"
+    },
+    "start": {
+      "value": "1939-08-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1940-04-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3308442$35C4152D-A5A0-47D1-BF9F-76EFF3AAA370",
     "ordinal": "43"
   },
   {
@@ -892,7 +1124,7 @@
       "precision": "11"
     },
     "statement": "Q886523$D05F5299-5A2C-4170-AA0F-FC19861E97AE",
-    "ordinal": "48"
+    "ordinal": "44"
   },
   {
     "item": {
@@ -916,12 +1148,20 @@
       "precision": "11"
     },
     "statement": "Q886495$89BA4E2B-100F-49AF-AE2F-860522D7403D",
-    "ordinal": "46"
+    "ordinal": "45"
   },
   {
     "item": {
       "value": "Q1396827",
       "label": "Néstor Guillén"
+    },
+    "replaces": {
+      "value": "Q886495",
+      "label": "Gualberto Villarroel"
+    },
+    "replacedBy": {
+      "value": "Q3046471",
+      "label": "Tomás Monje"
     },
     "start": {
       "value": "1946-07-21T00:00:00Z",
@@ -931,12 +1171,45 @@
       "value": "1946-08-17T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q1396827$9E70A749-5C4B-4363-A6C0-31A3ECF13F41"
+    "statement": "Q1396827$9E70A749-5C4B-4363-A6C0-31A3ECF13F41",
+    "ordinal": "46"
+  },
+  {
+    "item": {
+      "value": "Q3046471",
+      "label": "Tomás Monje"
+    },
+    "replaces": {
+      "value": "Q1396827",
+      "label": "Néstor Guillén"
+    },
+    "replacedBy": {
+      "value": "Q195495",
+      "label": "Enrique Hertzog"
+    },
+    "start": {
+      "value": "1946-08-17T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1947-03-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3046471$BF79D87A-B38D-4C98-B5A4-D18D894D312D",
+    "ordinal": "47"
   },
   {
     "item": {
       "value": "Q195495",
       "label": "Enrique Hertzog"
+    },
+    "replaces": {
+      "value": "Q3046471",
+      "label": "Tomás Monje"
+    },
+    "replacedBy": {
+      "value": "Q3306306",
+      "label": "Mamerto Urriolagoitía"
     },
     "start": {
       "value": "1947-03-10T00:00:00Z",
@@ -946,7 +1219,32 @@
       "value": "1949-10-22T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q195495$A5772D3C-E245-40BB-97E0-16A5F501223F"
+    "statement": "Q195495$A5772D3C-E245-40BB-97E0-16A5F501223F",
+    "ordinal": "48"
+  },
+  {
+    "item": {
+      "value": "Q3306306",
+      "label": "Mamerto Urriolagoitía"
+    },
+    "replaces": {
+      "value": "Q195495",
+      "label": "Enrique Hertzog"
+    },
+    "replacedBy": {
+      "value": "Q3309354",
+      "label": "Hugo Ballivián"
+    },
+    "start": {
+      "value": "1949-10-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1951-05-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3306306$EA8FDF12-A06D-41CC-9A26-379C6FBAF3AA",
+    "ordinal": "49"
   },
   {
     "item": {
@@ -969,7 +1267,8 @@
       "value": "1952-04-11T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q3309354$050E1BEB-FBAC-46E7-B813-58107283C8EB"
+    "statement": "Q3309354$050E1BEB-FBAC-46E7-B813-58107283C8EB",
+    "ordinal": "50"
   },
   {
     "item": {
@@ -1017,7 +1316,7 @@
       "precision": "11"
     },
     "statement": "Q471313$51591d58-45e6-2f52-d383-202cac028231",
-    "ordinal": "54"
+    "ordinal": "52"
   },
   {
     "item": {
@@ -1041,7 +1340,7 @@
       "precision": "11"
     },
     "statement": "Q312055$733d7e33-4c9c-1792-e679-d50e78ce5eda",
-    "ordinal": "54"
+    "ordinal": "53"
   },
   {
     "item": {
@@ -1089,7 +1388,7 @@
       "precision": "11"
     },
     "statement": "Q332074$B7C11479-4069-4388-8E64-BB69C07B8345",
-    "ordinal": "56"
+    "ordinal": "55"
   },
   {
     "item": {
@@ -1101,8 +1400,8 @@
       "label": "René Barrientos"
     },
     "replacedBy": {
-      "value": "Q332074",
-      "label": "René Barrientos"
+      "value": "Q1780127",
+      "label": "Alfredo Ovando Candía"
     },
     "start": {
       "value": "1965-05-26T00:00:00Z",
@@ -1160,7 +1459,32 @@
       "value": "1969-04-27T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q332074$9170D8BA-CDAA-4C1D-BC9D-B504253B456F"
+    "statement": "Q332074$9170D8BA-CDAA-4C1D-BC9D-B504253B456F",
+    "ordinal": "58"
+  },
+  {
+    "item": {
+      "value": "Q886540",
+      "label": "Luis Adolfo Siles Salinas"
+    },
+    "replaces": {
+      "value": "Q332074",
+      "label": "René Barrientos"
+    },
+    "replacedBy": {
+      "value": "Q1780127",
+      "label": "Alfredo Ovando Candía"
+    },
+    "start": {
+      "value": "1969-04-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1969-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886540$E87413E8-CF2F-44DD-81BA-DEA2A8C3A4A8",
+    "ordinal": "59"
   },
   {
     "item": {
@@ -1208,7 +1532,7 @@
       "precision": "11"
     },
     "statement": "Q195762$18FF2A07-37CA-4BAD-B207-3FAF2C3BC48F",
-    "ordinal": "61"
+    "ordinal": "60"
   },
   {
     "item": {
@@ -1236,6 +1560,93 @@
   },
   {
     "item": {
+      "value": "Q2566177",
+      "label": "Juan Pereda"
+    },
+    "replaces": {
+      "value": "Q269039",
+      "label": "Hugo Banzer"
+    },
+    "replacedBy": {
+      "value": "Q886514",
+      "label": "David Padilla"
+    },
+    "start": {
+      "value": "1978-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1978-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2566177$4F3D36C8-9BF1-4790-9E8B-6DD26D50442A",
+    "ordinal": "63"
+  },
+  {
+    "item": {
+      "value": "Q7944630",
+      "label": "Víctor González Fuentes"
+    },
+    "start": {
+      "value": "1978-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1978-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7944630$AAA4BD6D-0B23-45E5-B2BE-EF7AA0253150"
+  },
+  {
+    "item": {
+      "value": "Q886514",
+      "label": "David Padilla"
+    },
+    "replaces": {
+      "value": "Q2566177",
+      "label": "Juan Pereda"
+    },
+    "replacedBy": {
+      "value": "Q80924",
+      "label": "Wálter Guevara"
+    },
+    "start": {
+      "value": "1978-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-08-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q886514$BA9B3D9A-A686-46EA-B76D-C070D7E4F52D",
+    "ordinal": "64"
+  },
+  {
+    "item": {
+      "value": "Q80924",
+      "label": "Wálter Guevara"
+    },
+    "replaces": {
+      "value": "Q886514",
+      "label": "David Padilla"
+    },
+    "replacedBy": {
+      "value": "Q886490",
+      "label": "Alberto Natusch"
+    },
+    "start": {
+      "value": "1979-08-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-11-01T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q80924$84CFE972-6BBB-4BCC-9F2A-8C23C0CD2B1C",
+    "ordinal": "65"
+  },
+  {
+    "item": {
       "value": "Q886490",
       "label": "Alberto Natusch"
     },
@@ -1260,6 +1671,30 @@
   },
   {
     "item": {
+      "value": "Q466098",
+      "label": "Lidia Gueiler Tejada"
+    },
+    "replaces": {
+      "value": "Q886490",
+      "label": "Alberto Natusch"
+    },
+    "replacedBy": {
+      "value": "Q467929",
+      "label": "Luis García Meza Tejada"
+    },
+    "start": {
+      "value": "1979-11-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-07-17T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q466098$04956277-9B5D-428C-AC30-CFDC2372A5CD",
+    "ordinal": "67"
+  },
+  {
+    "item": {
       "value": "Q467929",
       "label": "Luis García Meza Tejada"
     },
@@ -1281,6 +1716,36 @@
     },
     "statement": "Q467929$3FA84EE9-5490-47BC-9300-F96EC20B0177",
     "ordinal": "68"
+  },
+  {
+    "item": {
+      "value": "Q60967255",
+      "label": "Óscar Pammo Rodríguez"
+    },
+    "start": {
+      "value": "1981-08-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1981-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q60967255$4aa262e6-fee3-44dc-8bda-e4179dd56df2"
+  },
+  {
+    "item": {
+      "value": "Q60967063",
+      "label": "Waldo Bernal Pereira"
+    },
+    "start": {
+      "value": "1981-08-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1981-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q60967063$797a9b98-4ee4-6cf2-a8e3-707d39c96d5a"
   },
   {
     "item": {
@@ -1362,6 +1827,10 @@
     "replaces": {
       "value": "Q471313",
       "label": "Hernán Siles Zuazo"
+    },
+    "replacedBy": {
+      "value": "Q555207",
+      "label": "Jaime Paz Zamora"
     },
     "start": {
       "value": "1985-08-06T00:00:00Z",
@@ -1547,6 +2016,14 @@
       "value": "Q42410",
       "label": "Evo Morales"
     },
+    "replaces": {
+      "value": "Q312761",
+      "label": "Eduardo Rodríguez"
+    },
+    "replacedBy": {
+      "value": "Q16581287",
+      "label": "Jeanine Áñez"
+    },
     "start": {
       "value": "2006-01-22T00:00:00Z",
       "precision": "11"
@@ -1555,7 +2032,8 @@
       "value": "2019-11-10T00:00:00Z",
       "precision": "11"
     },
-    "statement": "Q42410$d3232ff4-b573-4daf-a558-fb5b0199ca00"
+    "statement": "Q42410$d3232ff4-b573-4daf-a558-fb5b0199ca00",
+    "ordinal": "80"
   },
   {
     "item": {
