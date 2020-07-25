@@ -24,29 +24,31 @@ class ListPage < Scraped::HTML
   def list
     noko.xpath('.//table[.//th[contains(
       translate(., "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"),
-    "term of office")]]')
+    "fin du mandat")]]')
   end
 end
 
 
 # Each officeholder in the list
 class HolderItem < WikipediaTableRow
+  field :ordinal do
+    tds[0].text.to_i
+  end
+
   field :id do
-    wikidata_ids_in(name_cell).first
+    wikidata_ids_in(tds[1]).first
   end
 
   field :name do
-    link_titles_in(name_cell).first
+    link_titles_in(tds[1]).first
   end
 
   field :start_date do
-    Date.parse(start_text)
+    tds[2].css('time/@datetime')
   end
 
   field :end_date do
-    return if end_text == 'Incumbent'
-
-    Date.parse(end_text)
+    tds[3].css('time/@datetime')
   end
 
   field :replaces do
@@ -57,29 +59,6 @@ class HolderItem < WikipediaTableRow
 
   def empty?
     name.to_s == ''
-  end
-
-  private
-
-  def start_text
-    start_date_cell.text.tidy
-  end
-
-  def end_text
-    end_date_cell.text.tidy
-  end
-
-  def name_cell
-    # Cope with awkward table for Secretaries of State for Children, Schools and Families
-    cells_headed('Name').last || cells_headed('Children,')[1]
-  end
-
-  def start_date_cell
-    cells_headed('Term of office').first
-  end
-
-  def end_date_cell
-    cells_headed('Term of office').last
   end
 end
 
